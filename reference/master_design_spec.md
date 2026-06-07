@@ -14,6 +14,7 @@
 - 🚫 **水彩タッチは禁止**（梅﨑さんフィードバック）。にじみ・ぼかし・絵の具感・可愛い系NG
 - 🚫 暗いネイビー宇宙地＋金枠＋グロー発光の重厚CG（3Daysスライド系）も**禁止**
 - 🚫 写真・3D・実写合成も不可。あくまで線画イラスト
+- 🚫 **可愛くしすぎない（大人トーン）**：キラキラ/星/ハート/魔法のステッキ/お姫様風ドレスの女性などのファンシー要素は禁止。人物は**素朴で自然な線画**（普段着・自然な姿勢）。大人が真剣に見る動画に合う、端正で落ち着いた教科書図版にする。色味（クリーム＋インディゴ＋スカイブルー＋ピンク差し色）は親しみやすく保ってよいが、モチーフを子供っぽくしない。
 
 > 旧台本に残る「イラスト：水彩タッチ」「キャプション水色背景」等は**無視して本規格に置換**する。
 
@@ -64,7 +65,8 @@
 > 視聴者の多くは**スマホ縦画面**で見る。16:9が縦画面の小さな枠に収まった状態で、**中高年女性がはっきり読める**ことを絶対基準にする。図中の小ラベル（例「自己効力感」）が読めないのは不可。
 
 - **語数を削るのが最大の手段**：文字を大きくする＝言葉を減らす。1スライドの文字要素は「大タイトル1／大ラベル最大3／ピンクのキーメッセージ1」程度に圧縮する。
-- **最小文字サイズの目安**：どんなラベルも**画面高さの約5%以上**（タイトル≈8〜10%、中央コピー≈7%、キーメッセージ≈5〜6%）。これ未満の文字は作らない。
+- **最小文字サイズの目安**：どんなラベルも**画面高さの約5%以上**（タイトル≈7〜9%、中央コピー≈7%、キーメッセージ≈5〜6%）。これ未満の文字は作らない。
+- **表題は大きく、ただしバランス**：タイトルだけ巨大にして他とアンバランスにしない（巨大化禁止）。
 - **fine print 禁止**：研究者名（A. Bandura / Carl Rogers 等）の小さな添え書きは**廃止**。概念名（自己効力感・島皮質 等）を**大きな主役ラベル**にする。人名を出すなら本文ラベルと同じ大きさで1つだけ、または省略してよい。
 - **吹き出し・箇条書きは最大3つ**、各1〜数語（文章にしない）。長いキャプションは短い断定文（**全角16字以内目安**）に圧縮。
 - **基本単位は「アイコン＋大きな単語」**。文章で説明しない。
@@ -86,7 +88,15 @@ READABILITY RULE (critical): ALL text must be VERY LARGE and BOLD — easily rea
 small smartphone screen by a middle-aged viewer. Use as FEW words as possible so each can
 be big. NO small text, NO fine print, NO tiny labels, NO researcher-name credits in small
 type anywhere. Every label at least ~5% of frame height; the title much larger. Make
-diagram labels (e.g. concept names) big and prominent, not tiny annotations.
+diagram labels (e.g. concept names) big and prominent, not tiny annotations. The title is
+large but BALANCED with the body text, not oversized.
+ADULT TONE (critical): refined, grown-up, calm — NOT cute/childish. Do NOT draw sparkles,
+twinkles, glitter, stars, hearts, or magic wands. No fairy-tale/princess figures; any human
+is a simple, natural line-art figure in plain clothing. Keep the friendly palette but never
+make motifs childish.
+KEY MESSAGE: put the conclusion line in a magenta-pink ROUNDED PILL (white bold text) around
+72–82% height — keep this pink pill. But the very bottom ~15% stays empty, the SAME cream as
+the top (the pill must sit above it).
 BACKGROUND RULE: the ENTIRE background is ONE single uniform flat warm off-white (#F5F0E8)
 from the very top edge to the very bottom edge — NO white band, NO white box, NO white
 panel, NO gradient anywhere. Do NOT draw any subtitle bar or white rectangle. The bottom
